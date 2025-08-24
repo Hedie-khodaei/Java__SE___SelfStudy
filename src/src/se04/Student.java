@@ -7,13 +7,14 @@ public class Student {
 
 
         public LocalDate bithdate;
-        int code ;
-        String name;
-        String family;
-        Boolean locked;
-        LocalDate birthday;
+       public int code ;
+        public String name;
+      public String family;
+     public Boolean locked;
+        public LocalDate birthday;
 
 
+        public int id;
 }
 
        // @Override
