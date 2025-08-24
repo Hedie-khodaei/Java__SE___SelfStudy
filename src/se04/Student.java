@@ -6,6 +6,7 @@ import java.time.LocalDate;
 public class Student {
 
 
+        public LocalDate bithdate;
         int code ;
         String name;
         String family;
