@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class Main5 {
     public static void main(String[] args) {
        // Student std1; بدون اختصاص حافظه در هیپ
-       Student student=new Student(); //شی گرا    (شروع)   (جدید شی رو اینجوری مینویسیم چون تشخیص میده حروف کوچک(student) student std1(شی ما)
+       src.se04.Student student=new src.se04.Student(); //شی گرا    (شروع)   (جدید شی رو اینجوری مینویسیم چون تشخیص میده حروف کوچک(student) student std1(شی ما)
         student.code=1;
         student.name="ali";
         student.family="alipor";

@@ -8,7 +8,7 @@ public class Main1 {
     public static void main(String[] args) {
 
         LocalDate birthdate;
-        birthdate= LocalDate.of(2002,11,19);
+        birthdate=LocalDate.of(2022,11,20);
         System.out.println(birthdate.plusDays(369));
         LocalDate date =LocalDate.now();
         System.out.println(date);

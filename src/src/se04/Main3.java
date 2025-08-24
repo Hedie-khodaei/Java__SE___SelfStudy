@@ -2,9 +2,9 @@ package src.se04;
 
 public class Main3 {
     public static void main(String[] args) {
-        Student std1;
-        //std1.name="hedie";
 
+        src.se04.Student student = new src.se04.Student();
+        student.name = "ahmad";
         int a=1;
         int b=2;
         int c= a+b;
