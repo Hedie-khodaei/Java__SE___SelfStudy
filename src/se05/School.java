@@ -1,6 +1,6 @@
-package src.se05;
+package se05;
 
-import src.se04.Student;
+import se04.Student;
 
 import java.util.ArrayList;
 import java.util.Scanner;

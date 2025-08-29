@@ -1,4 +1,4 @@
-package src.se05;
+package se05;
 
 public class Student {
     public int id;

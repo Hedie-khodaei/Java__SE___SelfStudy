@@ -1,4 +1,4 @@
-package src.se04;
+package se04;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

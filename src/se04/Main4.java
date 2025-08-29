@@ -1,4 +1,4 @@
-package src.se04;
+package se04;
 
 public class Main4 {
     public static void main(String[] args) {

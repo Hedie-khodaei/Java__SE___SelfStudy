@@ -1,7 +1,4 @@
-package src.se05;
-
-import java.util.ArrayList;
-import java.util.Scanner;
+package se05;
 
 public class simcard {
     int id;

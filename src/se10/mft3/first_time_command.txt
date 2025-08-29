@@ -1,0 +1,15 @@
+username : sys as sysdba
+password :
+
+
+alter session set  "_ORACLE_SCRIPT" = true;
+
+
+
+
+create user javasee identified by java123;
+
+
+
+grant dba to javase;
+

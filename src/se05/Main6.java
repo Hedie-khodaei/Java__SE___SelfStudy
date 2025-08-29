@@ -1,6 +1,5 @@
-package src.se05;
+package se05;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 
 public class Main6 {
